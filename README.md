@@ -1,6 +1,15 @@
 # buplay
 
 A new Flutter project.
+IMPORTANT!!!!!!!!!!!!
+APP LOGIN DETAILS
+For Student 
+username: e21cseu0295
+password: user@bu_backend$test-account
+
+For Staff
+username: john.smith
+password: staff@bu_backend$test-account
 
 ## Getting Started
 
